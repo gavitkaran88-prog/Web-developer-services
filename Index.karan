@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>GK Web Services</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+<h1>GK Web Services</h1>
+<p>Website Development & Digital Solutions</p>
+</header>
+
+<section>
+<h2>About Me</h2>
+<p>Hello! I'm GK. I create modern websites and digital solutions.</p>
+</section>
+
+<section>
+<h2>Services</h2>
+<ul>
+<li>Portfolio Website</li>
+<li>Business Website</li>
+<li>Landing Page</li>
+</ul>
+</section>
+
+<section>
+<h2>Projects</h2>
+<p>GK Web Services Website</p>
+</section>
+
+<section>
+<h2>Contact</h2>
+<p>Email: your-email@example.com</p>
+</section>
+
+<footer>
+<p>© 2026 GK Web Services</p>
+</footer>
+
+</body>
+</html>
+body{
+font-family:Arial,sans-serif;
+margin:0;
+padding:0;
+text-align:center;
+}
+
+header{
+background:#222;
+color:white;
+padding:40px;
+}
+
+section{
+padding:30px;
+}
+
+footer{
+background:#222;
+color:white;
+padding:15px;
+}
